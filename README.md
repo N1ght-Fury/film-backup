@@ -1,2 +1,2 @@
 # film-backup
-backup flms names from given folder location
+Backup flms names from given folder location
